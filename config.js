@@ -11,13 +11,13 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["51950440475", 'Toronjita', true], //Richetti
-["51950440475"], 
-["51950440475"], 
-["51984871428"], 
-["51984871428"],
-["51984871428"],
-["51984871428"]]
+["51953599685", 'VIP E-SPORT', true], //Richetti
+["51953599685"], 
+["51953599685"], 
+["51953599685"], 
+["51961480916"],
+["51961480916"],
+["51961480916"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -27,7 +27,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["51950440475"]
+global.prems = ["51953599685"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -103,26 +103,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["51950440475", 'Toronjita', 1], 
-["51950440475", 'Toronjita', 1],  
-["51950440475", 'Toronjita', 1],
-["51950440475", 'Toronjita', 1],
-["51950440475", 'Toronjita', 1]]
+["51953599685", 'VIP E-SPORT', 1], 
+["51953599685", 'VIP E-SPORT', 1],  
+["51953599685", 'VIP E-SPORT', 1],
+["51961480916", 'VIP E-SPORT', 1],
+["51961480916", 'VIP E-SPORT', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
 global.desc2 = 'MichiBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "Toronjita"
-global.author = "Toronjita"
+global.packname = "VIP E-SPORT"
+global.author = "VIP E-SPORT"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "Toronjita"
+global.gt = "VIP E-SPORT"
 global.yt = "https://www.instagram.com/gianeee25.ff"
 global.yt2 = "https://www.instagram.com/gianeee25.ff"
 global.ig = "https://www.instagram.com/gianeee25.ff"
@@ -143,7 +143,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/51961480916' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -177,13 +177,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "Toronjita"
-global.igfg = "Toronjita"
+global.wm = "VIP E-SPORT"
+global.igfg = "VIP E-SPORT"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "51950440475"
+global.nomorown = "51953599685"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
